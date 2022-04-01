@@ -2,7 +2,7 @@
   "expo": {
     "name": "ota-app",
     "slug": "ota-app",
-    "version": "1.0.0",
+    "version": "1.0.4",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
@@ -11,7 +11,7 @@
       "backgroundColor": "#ffffff"
     },
     "updates": {
-      "fallbackToCacheTimeout": 0,
+      "fallbackToCacheTimeout": 300000,
       "url" : "https://stevemoretz.github.io/expo-ota-app/"
     },
     "assetBundlePatterns": [
