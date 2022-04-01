@@ -11,7 +11,8 @@
       "backgroundColor": "#ffffff"
     },
     "updates": {
-      "fallbackToCacheTimeout": 0
+      "fallbackToCacheTimeout": 0,
+      "url" : "https://stevemoretz.github.io/expo-ota-app/"
     },
     "assetBundlePatterns": [
       "**/*"
