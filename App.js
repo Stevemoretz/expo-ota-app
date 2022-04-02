@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>This is the OTA Update!</Text>
+      <Text>This is the native app..</Text>
       <StatusBar style="auto" />
     </View>
   );
